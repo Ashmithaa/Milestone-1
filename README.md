@@ -163,4 +163,4 @@ This project demonstrates a complete analytics workflow — from data cleaning a
 
 ## Author
 
-**Ashmithaa Pradeep**  Data Analytics & Data Science  
+**Ashmithaa Pradeep** - Data Analytics & Data Science  
